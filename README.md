@@ -1,2 +1,2 @@
-# newsletter
+# Newsletter
 Repository for Newsletter.
